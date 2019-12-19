@@ -1,0 +1,58 @@
+{
+    "name": "SlashDB",
+    "description": "SlashDB is an API service provider that focuses primarily on delivering APIs (Application programming interface) from your database. Once it is installed on any web server, it will connect your internal databases and construct a REST\/HTTP web service, ...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1361-slashdb.jpg",
+    "tags": [
+        "databases",
+        "deployment",
+        "have api",
+        "management"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/slashdb\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SlashDB",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1361-slashdb.jpg",
+            "humanURL": "http:\/\/www.slashdb.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/slashdb-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.slashdb.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/product\/slashdb"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/vt-enterprise"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/SlashDB"
+        },
+        {
+            "type": "Twitter",
+            "url": "http:\/\/twitter.com\/slash_db"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.slashdb.com\/"
+        }
+    ]
+}
